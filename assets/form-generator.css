@@ -127,7 +127,7 @@ canvas {
   max-width: 100vw;
 }
 #sign-area {
-  cursor: url('cursor.png') 8 8, crosshair;
+  cursor: url('images/cursor.png') 8 8, crosshair;
 }
 
 /* */
@@ -141,7 +141,7 @@ canvas {
   max-height: 200px;
 }
 .downloadAreaContainer {
-   background-image: url('longpress.png');
+   background-image: url('images/longpress.png');
    overflow: hidden;
  }
  @media (max-width: 768px) {
